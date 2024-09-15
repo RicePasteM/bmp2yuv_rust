@@ -14,7 +14,7 @@
 
 原图：
 
-<img title="" src="./images/7d47ed62-8cbb-4942-bcdf-2e0fc446b7ca.png" alt="7d47ed62-8cbb-4942-bcdf-2e0fc446b7ca" data-align="inline" style="zoom:25%;">
+<img src="./images/d6041205-cdb0-454f-9734-c7682a12465b.png" title="" alt="d6041205-cdb0-454f-9734-c7682a12465b" style="zoom:50%;">
 
 转换后效果（使用 **YUV 4: 4: 4 8-bit packed** 格式解析）：
 
